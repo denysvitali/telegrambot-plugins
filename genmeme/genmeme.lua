@@ -1,5 +1,3 @@
--- http://memecaptain.com/i?u=<url encoded source image url>&t1=<url encoded top text>&t2=<url encoded bottom text>
-
 local helpers = require "OAuth.helpers"
 
 local mime = require("mime")
